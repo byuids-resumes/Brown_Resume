@@ -17,13 +17,15 @@ Software Engineer
 ## Education
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 BS, Software Engineering
-Minor: Data Science
+
+Minor, Data Science
 - 3.0 Major GPA
 
 ## Related Experience
 
-### Internships
+### Internship
 
 `May 2022 - Current`
 __Naval Surface Warfare Center__, Dahlgren, VA
