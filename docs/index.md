@@ -17,6 +17,7 @@ Software Engineer
 ## Education
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 BS, Software Engineering
 
 Minor, Data Science
